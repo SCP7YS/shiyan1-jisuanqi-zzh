@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--表示按钮按下与不按下时候字体颜色的不同-->
+    <item android:color="#ffffff" android:state_pressed="true"></item>
+
+    <item android:color="#99004d"></item>
+
+</selector>

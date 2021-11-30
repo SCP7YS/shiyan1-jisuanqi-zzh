@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cm2"
+        android:title="厘米" />
+    <item
+        android:id="@+id/m2"
+        android:title="米" />
+    <item
+        android:id="@+id/km2"
+        android:title="千米" />
+    <item
+        android:id="@+id/nm2"
+        android:title="纳米" />
+    <item
+        android:id="@+id/um2"
+        android:title="微米" />
+    <item
+        android:id="@+id/mm2"
+        android:title="毫米" />
+</menu>
